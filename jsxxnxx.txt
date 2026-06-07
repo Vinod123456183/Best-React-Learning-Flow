@@ -1,0 +1,354 @@
+ **Module 1: Getting Started with React**
+
+* Introduction to React: Power of Declarative UI ⚡⚡
+* Understanding the Virtual DOM & Reconciliation Process ⚡⚡
+* Setting Up Your Development Environment ✅✅
+* Creating Your First React App ✅✅
+* Understanding the React Project Structure ✅✅
+* NPM vs NPX vs NVM Explained | Caret (^) & Tilde (~) Simplified ✅✅
+* Writing Code from Scratch ✅✅
+* Creating & Publishing Your First NPM Package ⚡⚡
+
+
+
+============================================================================================
+
+
+
+**Module 2: JavaScript Fundamentals for React Developers**
+
+* JavaScript Code Execution & Global Execution Context ⚡⚡
+* Event Loop, Call Stack & Concurrency in JavaScript ⚡⚡
+* Hoisting Explained: Variables & Functions ⚡⚡
+* Var vs Let vs Const: Best Practices ⚡⚡
+* Arrow Functions vs Traditional Functions: A Deep Dive into the ‘this’ Keyword ⚡⚡
+* Closure & Lexical Scope in JavaScript ⚡⚡
+* Classes, Objects, and Getters/Setters in JavaScript 
+* JavaScript Advanced OOP: Private Variables, Mixins & Inheritance
+* Working with Objects in JavaScript
+* Optional Chaining (?.), Nullish Coalescing (??), and Logical OR (||)
+* Destructuring in JavaScript (Object & Array)
+* Shallow & Deep Copy in JavaScript
+* Array Mastery: Must-Know Methods
+  ** map() – Transform Array Elements
+  ** filter() – Select Specific Items
+  ** reduce() – Combine Array Values
+  ** join() & split() – Convert Between Strings and Arrays
+  ** find() – Locate First Matching Element
+  ** findIndex() – Find Position of an Element
+* Splice & Slice Methods
+* Apply,Bind & Call Methods
+* Prototype & Inheritence in JS
+* Boolean Values in JS
+* Spread & Rest Operator in JavaScript
+* Ternary Operator & Short-Circuiting
+* Understanding Set & Map in JavaScript
+* Event Delegation for Performance Optimization & Event Bubbling
+* JavaScript Promises: The Foundation of Async Code
+* Async & Await in JavaScript
+* Memoization Mastery: Optimize Repetitive Functions
+* Debouncing & Throttling in JavaScript
+* ES6 Modules in JavaScript [Important]
+* Understanding export default vs Named Exports
+* Interview Essentials: Final Notes & Common JavaScript Questions
+
+
+============================================================================================
+
+
+
+**Module 3: React Basics – Core Foundations**
+
+* Setting Up a New React Project the Right Way ✅✅
+* Building Your First Reusable Component ✅✅
+* JSX & Babel: How They Work Together? ⚡⚡
+* Naming Conventions: CamelCase, PascalCase & Kebab-Case Simplified ⚡⚡
+* React Fragments: Adding Elements Seamlessly ✅✅
+* Using JavaScript Expressions Inside JSX ✅✅
+* Setting Attributes Dynamically in JSX ⚡⚡
+* Handling Events in React Like a Pro ⚡⚡
+* Understanding State in React (with Examples) ⚡⚡
+* Introduction to React Hooks: The Functional Revolution ✅✅
+* Using useState for State Management ✅✅
+* Handling User Input in Forms & Events ⚡⚡
+* Rendering Lists Dynamically with Map function ✅✅
+* Web DevTools Deep Dive: Inspect to Network ⚡⚡⚡⚡
+* Mastering Props: Passing Data Between Components ⚡⚡⚡⚡
+
+
+
+
+============================================================================================
+
+
+**Module 4: Hands-On Projects – Learn by Building**
+
+* Project Overview, Planning, and the Developer Mindset ⚡⚡⚡⚡
+* Design Breakdown: Header + Main with Styling ✅✅
+* Building the Header Layout – JSX and Component Basics ✅✅
+* Header Structure & Styling – Step by Step CSS Guide ✅✅
+* Component Breakdown: ✅✅
+  ** Creating a Reusable Tag Component ✅✅
+  ** Implementing a Reusable Tag Component Using Props ✅✅
+  ** Creating a Column Component with Styling ✅✅
+  ** Creating a Card Component with Styling ✅✅
+  ** Final Touches & Design Wrap-up ✅✅
+
+
+
+
+1. **Portfolio Website** – showcase your skills, projects, and tags for tech stacks.
+2. **Product Landing Page** – display products with cards, features, and tags.
+3. **Blog Homepage** – show posts with cards, categories as tags.
+4. **Recipe Gallery** – display recipes with cards and filter tags.
+5. **Movie/TV Show Catalog** – cards for movies, genres as tags.
+6. **Travel Destination Gallery** – destinations in cards with tags for type (beach, mountain, city).
+7. **Event Listing Page** – cards for events, tags for categories (music, tech, sports).
+
+
+
+============================================================================================
+
+
+**Module 5: Adding Functionality & State Management**
+
+* Understanding Requirements and Application Behavior ✅✅
+* Handling Form Submissions Efficiently ✅✅
+* Pro Tip: Shortcut for Handling Complex Forms ✅✅
+* Understanding & Using React Strict Mode ⚡⚡
+* Understanding and Implementing Tag Selection Logic ⚡⚡
+* Dynamically Displaying Selected Tags with Applied Colors ⚡⚡
+* Code Optimization: Removing Duplicates and Organizing Constants ⚡⚡
+* Selecting the Data Structure & Implementing Card Display Logic : Obj ✅✅
+* Implementing Delete Functionality ⚡⚡
+* Making Task Data Persistent with Local Storage ⚡⚡
+* Persisting Data with useEffect: Storing in Local Storage ⚡⚡
+* Implementing Drag-and-Drop Functionality Without Any Library ⚡⚡
+* Final Touches & Project Wrap-up ⚡⚡
+
+
+
+============================================================================================
+
+
+**Module 6: React Routing – From Basics to Advanced**
+
+* Introduction to React Routing : Setting Up Your Project ✅✅
+* React Routing Setup: BrowserRouter, Routes & Route ✅✅
+* Handling Invalid Routes with a "Not Found" Page ✅✅
+* Building a Single-Page Application (SPA) with React Router ✅✅
+* Route Parameters: Load Data Dynamically ✅✅
+* Working with Query Strings Using useSearchParams Hook ⚡⚡⚡⚡⚡⚡⚡⚡
+* Sorting Data with Query Strings: A Real-Life Example ⚡⚡⚡⚡⚡⚡⚡⚡
+* Nested Routing in React: Routes within Routes ✅✅
+* Mastering Programmatic Navigation: Using the Navigate Component and UseNavigate Hook ⚡⚡⚡⚡⚡
+
+
+============================================================================================
+
+
+**Module 7: API Integration & Error Handling in React**
+
+* Frontend & Backend Collaboration: API & Error Handling
+* Understanding useEffect and Its Dependency Array : Mounting & Re-Rendering
+* Unmounting Components with useEffect (Cleanup Function)
+* Client Server Architecture and HTTP Essentials for Frontend Developers
+* Fetching Data from a Server: Using Fetch and Axios
+* Enhancing User Experience with Loaders and Error Handling
+* Mastering Error Handling in API Calls
+* Modernizing Code with Async/Await for Better Readability
+* Handling POST Requests with Axios
+* Handling DELETE Requests with Axios
+* Handling PATCH Requests with Axios
+* Simplifying Code with Axios Create and Base URLs
+
+
+============================================================================================
+
+
+**Module 8: React Design Patterns**
+
+* Introduction to React Design Patterns
+* Container Presentational Design Pattern
+* Mastering Custom Hooks Design Pattern : Simplify Your Code Reusability
+* Enhancing Components with Higher-Order Components (HOCs)
+
+
+
+============================================================================================
+
+
+**Module 9: React Hooks Mastery – Advanced react**
+
+* In-Depth Guide to React Hooks
+  ** Understanding React Lifecycle Methods: Class vs Functional Components
+  ** useState() Hook : When and How to Use It Effectively
+  ** Understanding useEffect vs. useLayoutEffect in React: When and Why to Use Them
+  ** useRef() in React – DOM Access & References & Avoiding Re-renders
+  ** Passing Refs from Parent to Child: Understanding forwardRef in React
+  ** useImperativeHandle() – Exposing Methods in Components
+  ** Understanding Context API: Using createContext and useContext Hooks
+  ** Advanced Context API Usage: Creating Custom Hooks for Context
+  ** useReducer() – Alternative to useState for Complex Logic
+  ** Advanced useReducer: Handling Complex State Management
+  ** useMemo() – Performance Optimization
+  ** useCallback() – Memoizing Functions for Better Performance
+  ** useID() – Generating Unique IDs in React
+  ** useTransition() - Improving User Experience
+  ** useTranslation() with i18next: Translating Your React App
+  ** useMemo() – Performance Optimization
+  ** Module Wrap-Up: Key Takeaways and Shared Notes
+
+
+============================================================================================
+
+
+
+**Module 10: React 19 Hooks: The New Era**
+
+* React 19 Introduction: useActionState() – Modern Form & State Handling
+* useFormStatus() – Managing Form States
+* useActionState and useFormStatus: Understanding React 19’s Form Management Hooks
+* useOptimistic() – Handling Optimistic UI Updates
+* use() API – The Future of Data Fetching
+* Passing Ref as Props: A React 19 Enhancement
+
+
+============================================================================================
+
+
+**Module 11: React Query – State Management**
+
+* Introduction to React Query: The Why and How of Modern Data Fetching
+* Setting Up React Query: Configuration and Query Client Provider
+* Data Fetching with useQuery: Simplifying API Calls in React Query
+* Enhancing UX with useQuery: Handling Loading and Errors
+* Creating Custom Hooks: Reusing useQuery Logic for Cleaner Code
+* Using React Query DevTools: Visualize and Debug Your Cache
+* Customize our React Query Properties
+* Fetching Todos with useQuery: Hands-on Exercise
+* Understanding Stale and Refetch in React Query
+* Using Query Params and Dynamic Cache Keys in React Query
+* Implementing Pagination in React with React Query
+* Adding Page Numbers to Enhance Pagination in React
+* Infinite Scrolling in React Query
+* useMutation hook in React Query
+* Handling Delete Operations with React Query: Using useMutation Hook
+* Update Operations with React Query: Leveraging useMutation for Edits
+* Handling Error in Mutation
+* Showing Progress During Mutations
+* Optimistic update in React Query
+* Refactoring Code: Custom hook for AddUser Mutation
+
+
+============================================================================================
+
+
+
+**Module 12: Testing React applications Using Jest**
+
+* React Testing Simplified: Mastering Jest and Component-Level Testing
+* Getting Started with Jest: How Jest Runner Finds and Executes Your Tests
+* Assertions in Jest: Writing Smart and Clear Test Cases
+* Testing Variables and Functions with Jest: A Simple Start
+* Using beforeEach and afterEach in Jest
+* Skipping Tests in Jest: Using only and skip
+* Testing Loops in Jest: Running and Verifying Loops
+* Mastering Matchers in Jest
+* Testing Truthy and Falsy Values in Jest
+* Handling Errors with Jest: Using toThrow Matcher
+* Testing Your First React Component with React Testing Library
+* Mocking & Spying
+* Testing Asynchronous Code
+* Project: Test Login Page and UI Elements
+* Comprehensive Login Testing: Validations, Snapshots, and More
+* Testing Login Functionality: Success and Error Cases
+* Understanding jest.spyOn()and jest.mock()
+* Using Spies and Mocks in Real Projects: Practical Examples
+* Mastering Test Coverage and Custom Hooks with React Testing Library
+
+
+============================================================================================
+
+
+**Module 13: All-in-One Frontend Toolkit – Redux, TypeScript, Docker , CICD & More**
+
+* Mastering Webpack: The Power of Module Bundling for Real-World Web Apps
+* Building with Webpack from Scratch: Loaders, Plugins, and Build Setup.
+* Setting Up Your Own Server and Starting Apps with Webpack
+* Optimizing Performance: Configuring Webpack for Bundle Size Control
+* Understanding TypeScript: Why We Need It in JavaScript
+* Exploring Tuples and Optional Types in TypeScript
+* Understanding Interfaces and Types in TypeScript: A Practical Guide with Examples.
+* Understanding Generics in TypeScript
+* Using TypeScript in React: A Complete Guide
+* Using Generics in TypeScript State Management
+* Form Events in React with TypeScript
+* Mastering Redux: Understanding Use Cases, Comparisons, and Thunk
+* Mastering Redux Toolkit: From Slices to Selectors
+* Understanding Thunk: Handling Async Responses in Redux
+* Introduction to Git & GitHub: Understanding Version Control Basics
+* Mastering Git Basics: From Local Commits to Remote Push
+* Mastering Branches and Pull Requests: A Step-by-Step Guide
+* Mastering Git Reset and Remote Operations
+* Introduction to CI/CD: Automating Deployments with YAML and Netlify
+* Building a Complete CI/CD Pipeline: From Zero to Advanced
+* Understanding Docker: Setup, Use Cases, and Writing Your First Dockerfile
+
+
+============================================================================================
+
+
+
+**Module 14 : Ultimate Interview Prep: JavaScript, React & System Design**
+
+* Optimizing React with React.memo for Better Performance
+* Code-Splitting in React: Using React.lazy for Better Performance
+* Uplift State vs. Drive State Explained
+* HTML & CSS: Real-World Exercise for Interview Preparation
+* Building a Responsive Navbar Using Flexbox
+* Building a Simple CRUD App with Vanilla JavaScript
+* Mastering Form Validation in React: Using Formik and Yup
+* Grouping Data by User ID: Building Logic with Arrays of Objects
+* Mastering Flexbox: Common Interview Exercise
+* Getting to Grips with CSS Grid: Common Interview Question
+* Building a Dynamic Live Search Bar with API Calls
+* Understanding the Two Sum LeetCode Problem and Complexity Analysis
+* Contains Duplicate Element LeetCode Problem
+* Valid Anagram Problem (LeetCode 242): Checking String Anagrams
+* Group Anagram Problem (LeetCode 49): Grouping Anagrams Together
+* Understanding the LeetCode Missing Number Problem (LeetCode 268)
+* LeetCode Problem 283 — Move Zeroes
+* Interview Challenges for Engineers: From 5+ Years of Experience to Real-Life Problems
+* Frontend DSA Interview Questions: Beginner to Experienced Cheat Sheet
+* Common Output-Based Questions in Modern JavaScript
+* Master These 50+ Output Questions to Ace Your JavaScript Interviews
+* Designing Amazon Prime: A System Design Walkthrough
+* Building a Progress Bar Component in React for Interviews
+
+
+
+============================================================================================
+
+
+
+**Module 15: Building with AI: ChatGPT, Gemini & AI Agents**
+
+* Understanding AI and Generative AI: Core Concepts and Career Paths
+* Exploring APIs: ChatGPT vs. Gemini and Choosing the Right APIs
+* Building Your Own Chatbox Using Gemini APIs: An End-to-End Guide
+* Building an AI Agent Workflow with n8n: Automating Tasks with Ease
+* Using AI Models in Daily Work: A Balanced Approach to Problem-Solving
+
+
+
+============================================================================================
+
+
+
+**Module 16: Career Booster Extras – Bonus Lectures**
+
+* Crafting a Job-Ready Resume with AI Tips
+* Mastering LinkedIn: Networking and AI Strategies for Job Hunting
+
+React Core: React’s main focus is on components, state, props, JSX, hooks, rendering, and managing UI efficiently.
